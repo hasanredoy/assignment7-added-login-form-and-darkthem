@@ -1,0 +1,56 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with creamy sauce and crispy bacon.",
+    "ingredients": ["200g spaghetti", "100g pancetta or bacon", "2 large eggs", "50g grated Parmesan cheese", "2 cloves garlic", "Salt and black pepper to taste"],
+    "preparing_time":25,
+    "calories": 480,
+    "recipe_image": "https://i.postimg.cc/k43PMQ8j/1-iamge.jpg"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Chicken Stir-Fry",
+    "short_description": "Healthy and quick stir-fried chicken with vegetables.",
+    "ingredients": ["300g chicken breast, sliced", "1 red bell pepper, sliced", "1 green bell pepper, sliced", "1 onion, sliced", "2 cloves garlic, minced", "3 tablespoons soy sauce"],
+    "preparing_time":20,
+    "calories": 280,
+    "recipe_image": "https://i.postimg.cc/rmrWxkDV/2-image.jpg"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Vegetable Curry",
+    "short_description": "A flavorful vegetarian curry with mixed vegetables and aromatic spices.",
+    "ingredients": ["1 cup cauliflower florets", "1 cup diced carrots", "1 cup diced potatoes", "1 cup green peas", "1 onion, chopped", "2 tomatoes, chopped", "3 cloves garlic, minced", "1 tablespoon curry powder"],
+    "preparing_time":35,
+    "calories":220,
+    "recipe_image": "https://i.postimg.cc/FHp2XtsH/3-image.jpg"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Tender grilled salmon fillets marinated in lemon and herbs.",
+    "ingredients": ["4 salmon fillets", "2 tablespoons olive oil", "1 lemon, juiced", "2 cloves garlic, minced", "1 teaspoon dried thyme", "Salt and pepper to taste"],
+    "preparing_time": 15,
+    "calories":320,
+    "recipe_image": "https://i.postimg.cc/8cGHC5ZQ/4-image.jpg"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Caprese Salad",
+    "short_description": "A simple and refreshing Italian salad with tomatoes, mozzarella, and basil.",
+    "ingredients": ["2 large tomatoes, sliced", "200g fresh mozzarella cheese, sliced", "1/4 cup fresh basil leaves", "2 tablespoons balsamic vinegar", "2 tablespoons extra virgin olive oil", "Salt and pepper to taste"],
+    "preparing_time": 10,
+    "calories": 180,
+    "recipe_image": "https://i.postimg.cc/VsTt45qY/5-image.jpg"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Classic homemade cookies loaded with chocolate chips.",
+    "ingredients": ["1 cup unsalted butter, softened", "1 cup brown sugar", "1/2 cup granulated sugar", "2 eggs", "2 teaspoons vanilla extract", "2 1/4 cups all-purpose flour", "1 teaspoon baking soda", "1/2 teaspoon salt", "2 cups chocolate chips"],
+    "preparing_time":30,
+    "calories":150,
+    "recipe_image": "https://i.postimg.cc/wBTP2WzR/6-image.jpg"
+  }
+]
